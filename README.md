@@ -15,7 +15,6 @@
 3. Tuliskan kode berikut ke dalam file "latihan1.py"
 4. setelah itu jalankan proramnya di bagian terminal, tekan titik tiga masuk ke terminal dan jalankan terminal baru.
 5. terakhir tentukan bilangan besar dari ke 4 bilangan yang di masukan
-   <b> Contoh Seperti Gambar Dibawah</b></pre>
 
 ## Menentukan nilai besar dari bilangan yang di inputkan
 
