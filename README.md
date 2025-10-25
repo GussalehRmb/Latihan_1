@@ -16,5 +16,29 @@
 4. setelah itu jalankan proramnya di bagian terminal, tekan titik tiga masuk ke terminal dan jalankan terminal baru.
 5. terakhir tentukan bilangan besar dari ke 4 bilangan yang di masukan
    <b> Contoh Seperti Gambar Dibawah</b></pre>
-![alt text](sss/image.png)
+
+## Menentukan nilai besar dari bilangan yang di inputkan
+
+<pre>a = int(input("Masukkan bilangan pertama: "))
+b = int(input("Masukkan bilangan kedua: "))
+c = int(input("Masukkan bilangan ketiga: "))
+d = int(input("Masukkan bilangan keempat: "))
+
+terbesar = a
+
+if b > terbesar:
+    terbesar = b
+if c > terbesar:
+    terbesar = c
+if d > terbesar:
+    terbesar = d
+
+print("Bilangan terbesar adalah:", terbesar)</pre>
+
+Jalankan di terminal "Contoh" :
+<pre>masukan bilangan pertama : 15
+masukan bilangan kedua : 10
+masukan bilangan ketiga : 25
+masukan bilangan keempat : 20
+  Bilangan terbesar adalah : 25</pre>
 # Selesai
