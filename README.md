@@ -14,7 +14,7 @@
 2. buat file pyton dan didalam nama file itu misalkan nama filenya "latihan1.py"
 3. Tuliskan kode berikut ke dalam file "latihan1.py"
 4. setelah itu jalankan proramnya di bagian terminal, tekan titik tiga masuk ke terminal dan jalankan terminal baru.
-5. terakhir tentukan bilangan besar dari ke 4 bilangan yang di masukan
+5. terakhir tentukan bilangan besar dari ke 4 bilangan yang di masukan</pre>
 
 ## Menentukan nilai besar dari bilangan yang di inputkan
 
